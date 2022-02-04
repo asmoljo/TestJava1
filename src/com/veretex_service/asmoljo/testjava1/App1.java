@@ -14,11 +14,11 @@ public class App1 {
 		
 		Scanner s = new Scanner(System.in);
 		
-		System.out.println("Unesite umanjenik.");
+		System.out.println("Unesite umanjenikkkkk.");
 		String line = s.nextLine();
 		int a = Integer.parseInt(line);
 		
-		System.out.println("Unesite umanjitelj.");
+		System.out.println("Unesite umanjiteljljljlj.");
 		String line2 = s.nextLine();
 		
 		int b = Integer.parseInt(line2);
